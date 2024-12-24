@@ -1,9 +1,9 @@
-id=microg_installer
+id=microg_installer_scrumplex
 name=microG Installer Revived
-version=Revived 4.2.0-0
-versionCode=40200
+version=Revived 4.3.0-0
+versionCode=40300
 author=nift4
 description=Install microG GmsCore, Companion (or Play Store if you want so), GsfProxy and MapsV1 to /system/
-updateJson=https://raw.github.com/nift4/microg_installer_revived/master/update.json
+updateJson=https://raw.github.com/Scrumplex/microg_installer_revived/master/update.json
 support=https://github.com/nift4/microg_installer_revived/issues
 minApi=14
